@@ -129,7 +129,7 @@ Research on improving apparel manufacturing line efficiency using a two-phase In
   <!-- TODO: Add your preferred public contact email and ResearchGate profile URL. -->
 </p>
 
-<p align="center">Email: <strong>[Add your preferred public email]</strong> · ResearchGate: <strong>[Add your profile URL]</strong></p>
+<p align="center">Email: <strong>pasindu.s.dissanayake@gmail.com</strong> · ResearchGate: <strong>https://www.researchgate.net/profile/Pasindu-Dissanayke?ev=hdr_xprf</strong></p>
 
 <p align="center"><em>Keep learning. Keep building. Keep questioning.</em> 🚀</p>
 
