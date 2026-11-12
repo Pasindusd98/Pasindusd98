@@ -4,9 +4,13 @@
   Keep project links only for repositories that are public and ready to be reviewed.
 -->
 
-<p align="center">
-  <img src="assets/profile-banner.png" alt="Pasindu Dissanayake — Machine Learning Engineer, AI Researcher and Data Science Enthusiast" width="100%" />
-</p>
+<div align="center">
+  <img
+    src="assets/midnight_dev_loop1.gif"
+    width="100%"
+    alt="Pasindu Dissanayake - AI/ML Engineer"
+  />
+</div>
 
 <p align="center">
   <a href="https://github.com/Pasindusd98"><img src="https://img.shields.io/badge/GitHub-Pasindusd98-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
