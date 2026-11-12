@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PasinduD98"><img src="https://img.shields.io/badge/GitHub-PasinduD98-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/Pasindusd98"><img src="https://img.shields.io/badge/GitHub-Pasindusd98-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Machine%20Learning-2563EB?style=for-the-badge" alt="AI and Machine Learning" />
   <img src="https://img.shields.io/badge/Background-Statistics%20%26%20Operations%20Research-7C3AED?style=for-the-badge" alt="Statistics and Operations Research" />
 </p>
@@ -59,13 +59,13 @@
       <h3>🤖 Self-Learning LLM Fallback Framework</h3>
       <p>A framework that observes recurring LLM tasks, learns a lightweight local model for suitable tasks and can fall back to an LLM when needed.</p>
       <p><strong>Focus:</strong> Python · LLMs · Local model learning</p>
-      <a href="https://github.com/PasinduD98/Self-Learning-LLM-Fallback-Framework">View repository →</a>
+      <a href="https://github.com/Pasindusd98/Self-Learning-LLM-Fallback-Framework">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📚 Statistics AI Tutor</h3>
       <p>A lightweight intelligent chatbot designed to help students and self-learners explore statistical concepts.</p>
       <p><strong>Focus:</strong> Python · AI · Statistics education</p>
-      <a href="https://github.com/PasinduD98/Statistics-AI-Tutor">View repository →</a>
+      <a href="https://github.com/Pasindusd98/Statistics-AI-Tutor">View repository →</a>
     </td>
   </tr>
   <tr>
@@ -73,13 +73,13 @@
       <h3>📈 MX Stock Dashboard</h3>
       <p>A Python project focused on stock information and dashboard-based visualization.</p>
       <p><strong>Focus:</strong> Python · Data analysis · Visualization</p>
-      <a href="https://github.com/PasinduD98/MX-Stock-Dashboard-using-python-">View repository →</a>
+      <a href="https://github.com/Pasindusd98/MX-Stock-Dashboard-using-python-">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📊 Sales Distribution Dashboard</h3>
       <p>A Power BI dashboard for analyzing and visualizing a production company's sales distribution over a one-year period.</p>
       <p><strong>Focus:</strong> Power BI · Data analytics · Visualization</p>
-      <a href="https://github.com/PasinduD98/-Sales-Distribution-Dashboard-Power-BI">View repository →</a>
+      <a href="https://github.com/Pasindusd98/-Sales-Distribution-Dashboard-Power-BI">View repository →</a>
     </td>
   </tr>
   <tr>
@@ -87,18 +87,18 @@
       <h3>🧠 Mobile Price Prediction</h3>
       <p>An artificial neural network built with TensorFlow to classify mobile phones by price range using product features.</p>
       <p><strong>Focus:</strong> Python · TensorFlow · ANN</p>
-      <a href="https://github.com/PasinduD98/Mobile-Price-Prediction-with-Weight-Saving">View repository →</a>
+      <a href="https://github.com/Pasindusd98/Mobile-Price-Prediction-with-Weight-Saving">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>💬 Twitter Sentiment Analysis</h3>
       <p>A sentiment classification project using NLP preprocessing and TF-IDF feature extraction on airline tweets.</p>
       <p><strong>Focus:</strong> Python · NLP · Text classification</p>
-      <a href="https://github.com/PasinduD98/Sentiment-Analysis-on-a-Dataset-of-Tweets">View repository →</a>
+      <a href="https://github.com/Pasindusd98/Sentiment-Analysis-on-a-Dataset-of-Tweets">View repository →</a>
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/PasinduD98?tab=repositories">Explore all my repositories →</a></p>
+<p align="center"><a href="https://github.com/Pasindusd98?tab=repositories">Explore all my repositories →</a></p>
 
 ## 🔬 Research & Publications
 
@@ -107,24 +107,24 @@ Research on improving apparel manufacturing line efficiency using a two-phase In
 
 *ICMME 2025 · University of Peradeniya*
 
-- Publication / DOI: **[Add the official paper or DOI link here]**
-- ResearchGate: **[Add your ResearchGate profile URL here]**
+- Publication / DOI: https://www.researchgate.net/publication/399691474_Optimal_Assignment_of_Machine_Operators_to_Enhance_Productivity_and_Skill_Efficiency_in_Assembly_Lines_in_Apparel_Industry_Using_Two-Phase_Integer_Linear_Programming_Model_A_Case_Study
+- ResearchGate: https://www.researchgate.net/profile/Pasindu-Dissanayke?ev=hdr_xprf
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PasinduD98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pasindu's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduD98&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pasindusd98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pasindu's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindusd98&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PasinduD98&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Pasindusd98&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/PasinduD98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Pasindusd98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/pasindu-dissanayake-926b67213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <!-- TODO: Add your preferred public contact email and ResearchGate profile URL. -->
 </p>
